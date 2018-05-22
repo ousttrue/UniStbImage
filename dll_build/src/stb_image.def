@@ -2,5 +2,7 @@ LIBRARY "StbImage"
 
 EXPORTS
     stbi_load
+    stbi_load_from_memory
     stbi_image_free
+    stbi_set_flip_vertically_on_load;
 
