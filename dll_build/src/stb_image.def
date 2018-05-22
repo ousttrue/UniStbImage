@@ -1,0 +1,6 @@
+LIBRARY "StbImage"
+
+EXPORTS
+    stbi_load
+    stbi_image_free
+
